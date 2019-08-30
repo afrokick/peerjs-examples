@@ -6,7 +6,6 @@ import { Connect } from './connect';
 import { NewMessageInput } from './input';
 import { Message } from '../models/message';
 
-console.log(peerjs);
 const getRandomNumber = (length = 5) => [...Array(length)].map(i => (~~(Math.random() * 36)).toString(36)).join('');
 
 export class Chat extends React.Component {
