@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "dependencies": {
     "@material-ui/core": "^4.3.3",
-    "peerjs": "^1.0.4",
+    "peerjs": "git+https://github.com/peers/peerjs.git#master",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-scripts": "3.1.1"
@@ -15,6 +15,7 @@
   "eslintConfig": {
     "extends": "react-app"
   },
+  "homepage": "https://afrokick.github.io/examples/simple-chat",
   "browserslist": {
     "production": [
       ">0.2%",
