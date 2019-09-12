@@ -19,3 +19,4 @@ You need to change `homepage` section in `package.json` to change absolute path 
 ## List of examples
 
 - [Simple p2p chat](https://github.com/afrokick/peerjs-examples/tree/master/simple-chat)
+- [P2P file transfering](https://github.com/afrokick/peerjs-examples/tree/master/file-transfering)
